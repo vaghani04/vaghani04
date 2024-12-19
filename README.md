@@ -1,6 +1,6 @@
 # 👋 𝐇𝐞𝐲, 𝐈'𝐦 𝐌𝐚𝐮𝐧𝐢𝐤 𝐕𝐚𝐠𝐡𝐚𝐧𝐢
 
-- 🌱 I’m currently learning **Deep Learning**.
+- 🌱 I’m currently exploring **Generative AI**.
 - 👯 I’m looking to collaborate on **AI and ML Project**.
 - 🍒 I'm eager to team up on different projects to learn and grow.
 - 📫 For inquiries or collaborations, feel free to reach out to me via [@Linkedin](https://www.linkedin.com/in/maunik-vaghani-a704a8235/).
